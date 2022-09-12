@@ -16,4 +16,4 @@ Suggested sign:
 You have admin over me! Commands: ;kill, ;bring, ;tp [username], ;void.
 ------------------------
 Script: 
-loadstring(game:HttpGet(https://https://raw.githubusercontent.com/xcrvaz/Monochromatic-Admin/main/main.lua"), true)
+loadstring(game:HttpGet("https://https://raw.githubusercontent.com/xcrvaz/Monochromatic-Admin/main/main.lua"), true)
