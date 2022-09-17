@@ -1,5 +1,6 @@
 # OAdmin
 For Rate My Avatar!
+Currently broken
 Credit to Nostalgia boy#4514 for some help
 -------------------------------------
 Script: 
