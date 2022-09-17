@@ -1,13 +1,7 @@
 # OAdmin
 For Rate My Avatar!
-This will be updated a lot! You probably wont see this either because I'm not giving it to anyone lol
------------------------
-Anyone's Commands:
-;kill [Kills you]
-;bring [Teleports you to the player who says ;bring]
-;tp (username)
-;void [ Sends you to the far void. You wont die unless you reset ]
-;speed [num]
-------------------------
+-------------------------------------
 Script: 
+# You need a key
 loadstring(game:HttpGet("https://https://raw.githubusercontent.com/xcrvaz/OAdmin/main/main.lua"), true)
+# xcr#0244 To get one. Keys left: 5
