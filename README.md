@@ -1,5 +1,6 @@
 # OAdmin
 For Rate My Avatar!
+Credit to Nostalgia boy#4514 for some help
 -------------------------------------
 Script: 
 # You need a key
